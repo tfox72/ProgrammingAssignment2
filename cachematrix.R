@@ -1,4 +1,5 @@
-# I have used the solve function simmilar to the example just to underdstand how this works
+# I have used the solve function simmilar to the example just to underdstand how this works. I picked this function strictley because it
+# stated that if I leave b varible blank it will give me the inverse of a. I have included the help explination below the two functions.
 
 makeCacheMatrix <- function(x = matrix()) {  m<-NULL
 set<-function(y){
@@ -28,4 +29,7 @@ cacheSolve <- function(x = matrix(), ...) {
   x$setmatrix(m)
   m
 }
+
+
+
 
