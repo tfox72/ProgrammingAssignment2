@@ -1,4 +1,4 @@
-
+# I have used the solve function simmilar to the example just to underdstand how this works
 
 makeCacheMatrix <- function(x = matrix()) {  m<-NULL
 set<-function(y){
